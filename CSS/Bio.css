@@ -1,0 +1,27 @@
+p {
+  font-size: 80px;
+  text-align: center;
+}
+
+#video {
+  text-align: center;
+}
+
+.logo {
+  background-image: url('../img/logo.png');
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: auto;
+}
+
+#text {
+  color: red;
+}
+
+#text2 {
+  color: blue;
+}
+
+#GB {
+  font-size: 20px
+}

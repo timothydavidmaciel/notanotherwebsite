@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  background-image: url('../img/pika.jpg');
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-size: 180px;
+  
+}
